@@ -7,6 +7,7 @@ router.get('/', controllers.getGenres);
 router.get('/genre/:genreId', controllers.getArtists);
 router.get('/artist/:artistId', controllers.getArtistDetail);
 router.get('/artist/tracklist/:artistId', controllers.getTrackList);
+router.get('/top/', controllers.getToptracks);
 
 
 export default router; 

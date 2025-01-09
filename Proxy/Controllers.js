@@ -45,3 +45,15 @@ export const getTrackList = async (req, res) => {
     res.status(500).send('Error al obtener los datos de deezer');
   }
 }
+
+
+export const getToptracks = async (req, res) => {
+  try {
+    const response = await fetch(`${API_URL}/chart`);
+    const data = await response.json();
+    res.json(data);
+  } catch (error) {
+    res.status(500).send('Error al obtener los datos de deezer');
+  }
+
+}
