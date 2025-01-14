@@ -11,5 +11,5 @@ Este repositorio contiene el código de un servidor proxy diseñado para interac
 ## Enlaces
 
 - **Aplicación online:** [https://project5-tuqa.onrender.com](https://project5-tuqa.onrender.com)
-- **Repositorio GitHub:** [https://github.com/Vahen1981/Project5](https://github.com/Vahen1981/Project5)
+- **Repositorio de la app en GitHub:** [https://github.com/Vahen1981/Project5](https://github.com/Vahen1981/Project5)
 
