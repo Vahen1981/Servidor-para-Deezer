@@ -7,3 +7,8 @@ Este repositorio contiene el código de un servidor proxy diseñado para interac
 - **Gestor de CORS:** Permite que las solicitudes desde navegadores superen las restricciones de origen cruzado.
 - **Restricción de Origen:** Este proxy está configurado para aceptar solicitudes únicamente desde la dirección [https://project5-tuqa.onrender.com](https://project5-tuqa.onrender.com).
 - **Reenvío de Solicitudes:** Actúa como intermediario, recibiendo solicitudes desde el navegador, reenviándolas a la API de Deezer y devolviendo las respuestas al cliente.
+
+## Enlaces
+
+- [https://project5-tuqa.onrender.com](Aplicación online en render.com)
+- [https://github.com/Vahen1981/Project5](Repositorio de la aplicación en github)
