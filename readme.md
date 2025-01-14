@@ -1,14 +1,15 @@
-# Servidor Proxy para Deezer API
+# Servidor Proxy para la API de Deezer
 
-Este repositorio contiene el código de un servidor proxy diseñado para interactuar con la API de Deezer. Su propósito es superar las limitaciones de CORS y facilitar las solicitudes desde aplicaciones web.
+Este repositorio contiene el código de un servidor proxy diseñado para interactuar con la API de Deezer. Su principal objetivo es superar las limitaciones de CORS y facilitar las solicitudes desde aplicaciones web.
 
-## Características
+## 🚀 Características
 
-- **Gestor de CORS:** Permite que las solicitudes desde navegadores superen las restricciones de origen cruzado.
-- **Restricción de Origen:** Este proxy está configurado para aceptar solicitudes únicamente desde la dirección [https://project5-tuqa.onrender.com](https://project5-tuqa.onrender.com).
-- **Reenvío de Solicitudes:** Actúa como intermediario, recibiendo solicitudes desde el navegador, reenviándolas a la API de Deezer y devolviendo las respuestas al cliente.
+- **Gestión de CORS:** Permite que las solicitudes desde navegadores superen las restricciones de origen cruzado, ofreciendo mayor flexibilidad.
+- **Restricción de Origen:** Solo se aceptan solicitudes provenientes de [https://project5-tuqa.onrender.com](https://project5-tuqa.onrender.com), garantizando un acceso controlado y seguro.
+- **Reenvío de Solicitudes:** Funciona como un intermediario eficiente que recibe solicitudes del cliente, las procesa a través de la API de Deezer y devuelve las respuestas al navegador.
 
-## Enlaces
+## 🔗 Enlaces
 
-- [https://project5-tuqa.onrender.com](Aplicación online en render.com)
-- [https://github.com/Vahen1981/Project5](Repositorio de la aplicación en github)
+- 🌐 **Aplicación online:** [https://project5-tuqa.onrender.com](https://project5-tuqa.onrender.com)
+- 📂 **Repositorio GitHub:** [https://github.com/Vahen1981/Project5](https://github.com/Vahen1981/Project5)
+
